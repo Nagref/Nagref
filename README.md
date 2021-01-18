@@ -1,11 +1,8 @@
-<img width="auto" src="https://github.com/tgmarinho/tgmarinho/blob/master/banner.png">
-
-
 # Fagner Lima
 
 ## Olá pessoal 👋
 Sou apaixonado por resolver problemas utilizando a programação.
-Sou um FullStack Developer :computer:
+Sou um Front-end Developer :computer:
 
  :four_leaf_clover: &nbsp; Estou trabalhando na **CAIXA**
  <br/> :purple_heart: &nbsp; Buscando colaborar com projetos em Front-end usando React
