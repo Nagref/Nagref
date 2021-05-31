@@ -23,8 +23,9 @@ I'm a Full-stack Developer :computer:
 <div> 
 <br/> :email: &nbsp; Please contact me:
 <br/>
-<a href="https://linktr.ee/FagnerrLima" target="_blank"><img src="https://logodownload.org/wp-content/uploads/2019/09/linktree-logo-4.png" alt="linktree-logo-4" heigth="100" width="100" /></a>
+<br/>
   <a href="https://instagram.com/fagnerrlima" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ <a href="https://linktr.ee/FagnerrLima" target="_blank"><img src="https://logodownload.org/wp-content/uploads/2019/09/linktree-logo-4.png" alt="linktree-logo-4" heigth="100" width="100" /></a>
 
  
 </div>
