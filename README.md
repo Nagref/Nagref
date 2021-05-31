@@ -9,17 +9,6 @@ I'm a Full-stack Developer :computer:
  <br/> :blush: &nbsp; I can help you with CSS Grid Layout and Flexbox
  <br/> :computer: &nbsp; My stack: Go Lang, ReactJS, Node.js & Typescript
  <br/> 💬  &nbsp; About me: I love technology, playing Fortnite, COD, watching Netflix and listening to music.
- 
-##
- 
-<div> 
-<br/> :email: &nbsp; Please contact me:
-<br/>
-<a href="https://linktr.ee/FagnerrLima" target="_blank"><img src="https://logodownload.org/wp-content/uploads/2019/09/linktree-logo-4.png" alt="linktree-logo-4" heigth="100" width="100" /></a>
-  <a href="https://instagram.com/fagnerrlima" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-
- 
-</div>
 
 ##
 
@@ -29,5 +18,15 @@ I'm a Full-stack Developer :computer:
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nagref&layout=compact&langs_count=16&theme=dark"/>
 <div>
 
+ ##
+ 
+<div> 
+<br/> :email: &nbsp; Please contact me:
+<br/>
+<a href="https://linktr.ee/FagnerrLima" target="_blank"><img src="https://logodownload.org/wp-content/uploads/2019/09/linktree-logo-4.png" alt="linktree-logo-4" heigth="100" width="100" /></a>
+  <a href="https://instagram.com/fagnerrlima" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+
+ 
+</div>
   
   
