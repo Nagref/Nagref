@@ -33,7 +33,6 @@ I'm a Full-stack Developer :computer:
 <br/>
   <a href="https://instagram.com/fagnerrlima" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href="https://www.linkedin.com/in/fagner-pereira-de-lima-40704a68/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- <a href="https://linktr.ee/FagnerrLima" target="_blank"><img src="https://logodownload.org/wp-content/uploads/2019/09/linktree-logo-4.png" alt="linktree-logo-4" heigth="100" width="100" /></a>
 
  ![Snake animation](https://github.com/nagref/nagref/blob/output/github-contribution-grid-snake.svg)
  
