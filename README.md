@@ -19,7 +19,7 @@ I'm a Full-stack Developer :computer:
   <img align="center" alt="Nagref-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Nagref-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Nagref-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Nagref-Golang" height="50" width="60" src="https://blog.golang.org/go-brand/Go-Logo/SVG/Go-Logo_Blue.svg">
+  <img align="center" alt="Nagref-Golang" height="60" width="70" src="https://blog.golang.org/go-brand/Go-Logo/SVG/Go-Logo_Blue.svg">
    <img align="right" alt="Nagref-repeat" src="https://raw.githubusercontent.com/raghavk16/raghavk16/master/giphy.webp" heigth="125" width="125">
 </div>
 </div>
