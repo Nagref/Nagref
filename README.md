@@ -4,7 +4,7 @@
 I am passionate about solving problems using programming.
 I'm a Full-stack Developer :computer:
 
- :four_leaf_clover: &nbsp; I'm working on <a href="http://loterias.caixa.gov.br/wps/portal/loterias" target="_blank"><img src="https://logodownload.org/wp-content/uploads/2020/01/loterias-caixa-logo-5.png" alt="loterias-caixa-logo-5" heigth="60" width="60" /></a>
+ :four_leaf_clover: &nbsp; I'm working on <a href="http://loterias.caixa.gov.br/wps/portal/loterias" target="_blank"><img src="https://logodownload.org/wp-content/uploads/2020/01/loterias-caixa-logo-5.png" alt="loterias-caixa-logo-5" heigth="55" width="55" /></a>
  <br/> :purple_heart: &nbsp; Seeking to collaborate with Full-stack projects using Go Lang
  <br/> 💬  &nbsp; About me: I love technology, playing Fortnite, COD, watching Netflix and listening to music.
 
