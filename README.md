@@ -7,9 +7,7 @@ I'm a Full-stack Developer :computer:
  :four_leaf_clover: &nbsp; I'm working on <a href="http://loterias.caixa.gov.br/wps/portal/loterias" target="_blank"><img src="https://logodownload.org/wp-content/uploads/2020/01/loterias-caixa-logo-5.png" alt="loterias-caixa-logo-5" heigth="55" width="55" /></a>
  <br/> :purple_heart: &nbsp; Seeking to collaborate with Full-stack projects using Go Lang
  <br/> 💬  &nbsp; About me: I love technology, playing Fortnite, COD, watching Netflix and listening to music.
-
 ##
-
  <div>
   <a href="https://github.com/nagref">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=nagref&show_icons=true&theme=blueberry&include_all_commits=true&count_private=true"/>
@@ -23,19 +21,14 @@ I'm a Full-stack Developer :computer:
    <img align="right" alt="Nagref-repeat" src="https://raw.githubusercontent.com/raghavk16/raghavk16/master/giphy.webp" heigth="125" width="125">
 </div>
 </div>
-   
 <div>
-
- ##
- 
-<div> 
-
+##
+<div>
 <br/>
   <a href="https://instagram.com/fagnerrlima" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href="https://www.linkedin.com/in/fagner-pereira-de-lima-40704a68/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
  ![Snake animation](https://github.com/nagref/nagref/blob/output/github-contribution-grid-snake.svg)
- 
  </div>
   
   
