@@ -32,7 +32,7 @@ I'm a Full-stack Developer :computer:
   <a href="https://instagram.com/fagnerrlima" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href="https://www.linkedin.com/in/fagner-pereira-de-lima-40704a68/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
- ![Snakeanimation](https://github.com/nagref/nagref/blob/output/github-contribution-grid-snake.svg)
+ ![Snake animation](https://github.com/nagref/nagref/blob/output/github-contribution-grid-snake.svg)
  </div>
   
   
