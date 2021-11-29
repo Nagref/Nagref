@@ -24,7 +24,7 @@
  <div>
    
     
-![Snake animation](https://github.com/nagref/nagref/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Nagref/Nagref/blob/output/github-contribution-grid-snake.svg)
  
 
     
