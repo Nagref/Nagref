@@ -1,9 +1,11 @@
 # Hi there, I'm Fagner Lima👋🏻
 I am passionate about solving problems using programming.
-I'm a Front-End Developer :computer:
+I'm a Front-End Developer 
 
  
- <br/> :purple_heart: &nbsp; Seeking to collaborate with Front-End projects using React Native, ReactJS, Javascript and Go Lang.
+ <br/> :purple_heart: &nbsp; Seeking to collaborate with Front-end projects using React.
+ <br/> :smiley: I can help you with CSS Grid Layout and Flexbox.
+ <br/> :computer: &nbsp; My stack: ReactJS, React Native, Typescript & Go Lang.
  <br/> 💬  &nbsp; About me: I love technology, playing Fortnite, COD, watching Netflix and listening to music.
  
  ##
