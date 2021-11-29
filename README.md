@@ -7,7 +7,7 @@
 
  
  <br/> :purple_heart: &nbsp; Seeking to collaborate with Front-end projects using React.
- <br/> :smiley: I can help you with CSS Grid Layout and Flexbox.
+ <br/> :smiley: &nbsp; I can help you with CSS Grid Layout and Flexbox.
  <br/> :computer: &nbsp; My stack: ReactJS, React Native, Typescript & Go Lang.
  <br/> 💬  &nbsp; About me: I love technology, playing Fortnite, COD, watching Netflix and listening to music.
  
