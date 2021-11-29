@@ -1,6 +1,9 @@
 # Hi there, I'm Fagner Lima👋🏻
-I am passionate about solving problems using programming.
-I'm a Front-End Developer 
+<h3> 
+<br>Nice to meet you
+<p>
+<br>I am passionate about solving problems using programming.
+<br>I'm a Front-End Developer :desktop_computer:
 
  
  <br/> :purple_heart: &nbsp; Seeking to collaborate with Front-end projects using React.
