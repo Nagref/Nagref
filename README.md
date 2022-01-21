@@ -1,5 +1,4 @@
 # Hi there, I'm Fagner Lima👋🏻
-<h3> 
 <br>Nice to meet you
 <p>
 <br>I am passionate about solving problems using programming.
