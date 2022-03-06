@@ -1,24 +1,23 @@
-# Hi there, I'm Fagner Lima👋🏻
-<br>Nice to meet you
-<br>
-<br>I am passionate about solving problems using programming.
-<br>I'm a Full Stack Developer :desktop_computer:
+### Hi there, I'm Fagner Lima👋🏻
 
- <br/> :purple_heart: &nbsp; Seeking to collaborate with Full Stack projects using React and NodeJS.
- <br/> :smiley: &nbsp; I can help you with CSS Grid Layout and Flexbox.
- <br/> :computer: &nbsp; My stack: ReactJS, React Native, NodeJS, Typescript & Go Lang.
- <br/> 💬  &nbsp; About me: I love technology, playing Fortnite, COD, watching Netflix and listening to music.
+I am passionate about solving problems using programming.<br>
+I'm a Full Stack Developer :desktop_computer:
+
+:purple_heart: &nbsp; Seeking to collaborate with Full Stack projects using React and NodeJS.<br/> 
+:smiley: &nbsp; I can help you with CSS Grid Layout and Flexbox.<br/> 
+:computer: &nbsp; My stack: ReactJS, React Native, NodeJS, Typescript & Go Lang.<br/> 
+💬  &nbsp; About me: I love technology, playing Fortnite, COD, watching Netflix and listening to music.
  
- ##
+ #
  <div>
   <a href="https://github.com/nagref">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=nagref&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nagref&layout=compact&langs_count=16&theme=dark"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=nagref&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nagref&layout=compact&langs_count=16&theme=dark"/>
   <div style="display: inline_block">
   </div>
   </div>
  
- ##
+ #
  <div>
    
     
@@ -35,7 +34,7 @@
   <img align="center" alt="Nagref-Golang" height="60" width="70" src="https://blog.golang.org/go-brand/Go-Logo/SVG/Go-Logo_Blue.svg">
   <img align="center" alt="Nagref-VSCode" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg">
   <img align="center" alt="Nagref-Ubuntu" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg">
-  <img align="right" alt="Nagref-repeat" src="https://raw.githubusercontent.com/raghavk16/raghavk16/master/giphy.webp" heigth="120" width="120">
+  <img align="right" alt="Nagref-repeat" src="https://raw.githubusercontent.com/raghavk16/raghavk16/master/giphy.webp" heigth="100" width="100">
  
  
     
