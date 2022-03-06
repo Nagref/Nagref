@@ -14,7 +14,6 @@ I'm a Full Stack Developer :desktop_computer:
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nagref&layout=compact&langs_count=16&theme=dracula"/>
   <div style="display: inline_block">
   </div>
-  </div>
        
 ![Snake animation](https://github.com/Nagref/Nagref/blob/output/github-contribution-grid-snake.svg)
   
