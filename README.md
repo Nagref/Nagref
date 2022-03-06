@@ -8,7 +8,6 @@ I'm a Full Stack Developer :desktop_computer:
 :computer: &nbsp; My stack: ReactJS, React Native, NodeJS, Typescript & Go Lang.<br/> 
 💬  &nbsp; About me: I love technology, playing Fortnite, COD, watching Netflix and listening to music.
  
- 
  <div>
   <a href="https://github.com/nagref">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=nagref&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -16,15 +15,9 @@ I'm a Full Stack Developer :desktop_computer:
   <div style="display: inline_block">
   </div>
   </div>
- 
- 
- <div>
-   
-    
+       
 ![Snake animation](https://github.com/Nagref/Nagref/blob/output/github-contribution-grid-snake.svg)
- 
-
-    
+  
   <img align="center" alt="Nagref-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Nagref-Ts" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Nagref-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -35,12 +28,7 @@ I'm a Full Stack Developer :desktop_computer:
   <img align="center" alt="Nagref-VSCode" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg">
   <img align="center" alt="Nagref-Ubuntu" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg">
   <img align="right" alt="Nagref-repeat" src="https://raw.githubusercontent.com/raghavk16/raghavk16/master/giphy.webp" heigth="100" width="100">
- 
- 
-    
+  
   <a href="https://instagram.com/fagnerrlima" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/fagner-pereira-de-lima-40704a68/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-
  </div>
-  
-  
