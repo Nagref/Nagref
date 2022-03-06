@@ -8,7 +8,7 @@ I'm a Full Stack Developer :desktop_computer:
 :computer: &nbsp; My stack: ReactJS, React Native, NodeJS, Typescript & Go Lang.<br/> 
 💬  &nbsp; About me: I love technology, playing Fortnite, COD, watching Netflix and listening to music.
  
- #
+ 
  <div>
   <a href="https://github.com/nagref">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=nagref&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -17,7 +17,7 @@ I'm a Full Stack Developer :desktop_computer:
   </div>
   </div>
  
- #
+ 
  <div>
    
     
