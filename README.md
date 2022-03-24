@@ -4,9 +4,8 @@ I am passionate about solving problems using programming.<br>
 I'm a Full Stack Developer :desktop_computer:
 
 :purple_heart: &nbsp; Seeking to collaborate with Full Stack projects using React and NodeJS.<br/> 
-:smiley: &nbsp; I can help you with CSS Grid Layout and Flexbox.<br/> 
 :computer: &nbsp; My stack: ReactJS, React Native, NodeJS, Typescript & Go Lang.<br/> 
-💬  &nbsp; About me: I love technology, playing Fortnite, COD, watching Netflix and listening to music.
+:smiley: &nbsp; About me: I love technology, playing Fortnite, COD, watching Netflix and listening to music.
 <br><br>
    
   <div>
