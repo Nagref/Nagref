@@ -14,7 +14,7 @@ Born in Rio de Janeiro, Brazil.
 
 🎸 Guitar player <br/> 
 ☕ Barista coffee <br/>
-🏃 Beginner runner
+🏃 Beginner runner <br/>
 
 #### My Stacks:
 
