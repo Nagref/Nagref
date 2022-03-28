@@ -1,20 +1,21 @@
 ### Hi, I'm Fagner Lima <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">
 
-I am passionate about solving problems using programming.<br>
-I'm a Full Stack Developer :desktop_computer:
+I'm a Full Stack Developer :desktop_computer:<br>
+I am passionate about solving problems using programming.
 
-:purple_heart: &nbsp; Seeking to collaborate with Full Stack projects using React and NodeJS.<br/> 
-:smiley: &nbsp; About me: I love technology, playing Fortnite, COD, watching Netflix and listening to music.
-<div>:computer: &nbsp; My stacks:
-  <img align="center" alt="Nagref-Js" height="20" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Nagref-Ts" height="20" width="30" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Nagref-HTML" height="20" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Nagref-CSS" height="20" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Nagref-React" height="20" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Nagref-NodeJS" height="20" width="30" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg">
+:purple_heart: &nbsp; Seeking to collaborate with Full Stack projects using React and NodeJS.<br>
+:smiley: &nbsp; About me: I love technology, playing Fortnite, COD, watching Netflix and listening to music.<br/> 
+#### :computer: &nbsp; My stacks:<br>
+<div>
+  <img align="center" alt="Nagref-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Nagref-Ts" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="Nagref-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Nagref-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Nagref-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Nagref-NodeJS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="Nagref-Golang" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg">
-  <img align="center" alt="Nagref-Git" height="20" width="30" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
- </div>
+  <img align="center" alt="Nagref-Git" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
+</div>
 
  ![Snake animation](https://github.com/Nagref/Nagref/blob/output/github-contribution-grid-snake.svg)
  
