@@ -1,14 +1,23 @@
 ### Hi, I'm Fagner Lima <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">
 
-I'm a Full Stack Developer :desktop_computer:<br>
-I am passionate about solving problems using programming.
+💻 I'm a Full Stack Developer<br/>
 
-:purple_heart: &nbsp; Seeking to collaborate with Full Stack projects using React and NodeJS.<br>
-:smiley: &nbsp; About me: I love technology, playing Fortnite, COD, watching Netflix and listening to music.<br/> 
-#### :computer: &nbsp; My stacks:<br>
+#### My Values
+
+🧠 - Thoughtful & Inclusive Development<br/>
+💬 - Teamwork & Communication<br/>
+🔮 - Mindset of Learning & Curiosity<br/>
+
+#### Hobbies 
+
+🎸 - Guitar player<br/> 
+☕ - Barista coffee<br/>
+🏃 - beginner runner<br/>
+
+#### My stacks:<br/>
+
 <div>
   <img align="center" alt="Nagref-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Nagref-Ts" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Nagref-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Nagref-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Nagref-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
