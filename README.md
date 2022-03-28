@@ -1,22 +1,23 @@
 ### Hi, I'm Fagner Lima <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">
 
-I'm a Full Stack Developer.<br/>
+I'm a Full Stack Developer, <br/>
+passionate about solving problems using programming. <br/>
+Born in Rio de Janeiro, Brazil.
 
 #### My Values:
 
-🧠 - Thoughtful & Inclusive Development<br/>
-💬 - Teamwork & Communication<br/>
-🔮 - Mindset of Learning & Curiosity<br/>
+🧠 Thoughtful & Inclusive Development <br/>
+💬 Teamwork & Communication <br/>
+🔮 Mindset of Learning & Curiosity
 
 #### Hobbies: 
 
-🎸 - Guitar player<br/> 
-☕ - Barista coffee<br/>
-🏃 - beginner runner<br/>
+🎸 Guitar player <br/> 
+☕ Barista coffee <br/>
+🏃 Beginner runner
 
-#### My stacks:
+#### My Stacks:
 
-<br/>
 <div>
   <img align="center" alt="Nagref-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Nagref-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
