@@ -3,7 +3,9 @@
 I am passionate about solving problems using programming.<br>
 I'm a Full Stack Developer :desktop_computer:
 
-<div>
+:purple_heart: &nbsp; Seeking to collaborate with Full Stack projects using React and NodeJS.<br/> 
+:smiley: &nbsp; About me: I love technology, playing Fortnite, COD, watching Netflix and listening to music.
+<div>:computer: &nbsp; My stacks:
   <img align="center" alt="Nagref-Js" height="20" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Nagref-Ts" height="20" width="30" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Nagref-HTML" height="20" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -12,18 +14,8 @@ I'm a Full Stack Developer :desktop_computer:
   <img align="center" alt="Nagref-NodeJS" height="20" width="30" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="Nagref-Golang" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg">
   <img align="center" alt="Nagref-Git" height="20" width="30" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
-  <img align="center" alt="Nagref-VSCode" height="20" width="30" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg">
-  <img align="center" alt="Nagref-Ubuntu" height="20" width="30" src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg">
-  <img align="center" alt="Nagref-Windows" height="20" width="30" src="https://github.com/devicons/devicon/blob/master/icons/windows8/windows8-original.svg">
  </div>
 
-:purple_heart: &nbsp; Seeking to collaborate with Full Stack projects using React and NodeJS.<br/> 
-:computer: &nbsp; My stack: ReactJS, React Native, NodeJS, Typescript & Go Lang.<br/> 
-:smiley: &nbsp; About me: I love technology, playing Fortnite, COD, watching Netflix and listening to music.
-<br><br>
-   
-  
- 
  ![Snake animation](https://github.com/Nagref/Nagref/blob/output/github-contribution-grid-snake.svg)
  
  <a href="https://instagram.com/fagnerrlima" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
