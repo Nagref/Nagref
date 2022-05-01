@@ -7,6 +7,7 @@ Born in Rio de Janeiro, Brazil.
 #### My Values:
 
 🧠 Thoughtful & Inclusive Development <br/>
+😇 Loyal & Responsible<br>
 💬 Teamwork & Communication <br/>
 🔮 Mindset of Learning & Curiosity
 
