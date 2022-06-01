@@ -1,4 +1,4 @@
-### Hi, I'm Fagner Lima <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">
+### Hi, I'm Fagner Lima <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="1px">
 
 I'm a Full Stack Developer, <br/>
 passionate about solving problems using programming. <br/>
