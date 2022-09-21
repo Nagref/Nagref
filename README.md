@@ -1,8 +1,11 @@
 ### Hi, I'm Fagner Lima <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="3%">
 
 I'm a Software engineer,
+<br>
 passionate about solving problems
+<br>
 using programming.
+<br>
 Born in Rio de Janeiro, Brazil.
 
 #### My Values:
