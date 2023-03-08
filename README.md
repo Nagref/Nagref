@@ -29,9 +29,9 @@
   <img align="center" alt="Nagref-Git" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
 </div><br/>
 
- ![GitHubStats](https://github-readme-stats.vercel.app/api?username=Nagref&show_icons=true&include_all_commits=true&line_height=20&hide_border=true&theme=dark)
-
  ![TOP Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=Nagref&layout=compact&theme=dark)
+ 
+ ![GitHubStats](https://github-readme-stats.vercel.app/api?username=Nagref&show_icons=true&include_all_commits=true&line_height=20&hide_border=true&theme=dark)
 
  ![Snake animation](https://github.com/Nagref/Nagref/blob/output/github-contribution-grid-snake.svg)
  
