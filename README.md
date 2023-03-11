@@ -1,4 +1,4 @@
-<img src="https://github.com/demartini/demartini/blob/master/code.gif" width="25%">
+<img src="https://github.com/demartini/demartini/blob/master/code.gif" width="10%">
 
 #### Hi, I'm Fagner Lima
 
