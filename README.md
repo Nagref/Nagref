@@ -1,9 +1,9 @@
-<img src="https://github.com/demartini/demartini/blob/master/code.gif" width="10%">
-
 #### Hi, I'm Fagner Lima
 
 •Software Engineer 🧑🏻‍💻<br>
 •Postgraduate in Business Cybersecurity Management👤🔐<br>
+
+<img src="https://github.com/demartini/demartini/blob/master/code.gif" width="15%">
 
 #### My Values:
 
@@ -30,10 +30,13 @@
   <img align="center" alt="Nagref-Golang" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg">
   <img align="center" alt="Nagref-Git" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
 </div><br/>
-
- ![TOP Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=Nagref&layout=compact&theme=dark)
+<div>
+  
+ ![TOP Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=Nagref&layout=compact&theme=omni)
  
- ![GitHubStats](https://github-readme-stats.vercel.app/api?username=Nagref&show_icons=true&include_all_commits=true&line_height=20&hide_border=true&theme=dark)
+ ![GitHubStats](https://github-readme-stats.vercel.app/api?username=Nagref&show_icons=true&include_all_commits=true&line_height=20&hide_border=true&theme=omni)
+
+</div>
 
  ![Snake animation](https://github.com/Nagref/Nagref/blob/output/github-contribution-grid-snake.svg)
  
