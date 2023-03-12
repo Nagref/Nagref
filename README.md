@@ -2,8 +2,8 @@
 
 •Software Engineer 🧑🏻‍💻<br>
 •Postgraduate in Business Cybersecurity Management👤🔐<br>
-
-<img src="https://github.com/demartini/demartini/blob/master/code.gif" width="15%">
+<!-- 
+<img src="https://github.com/demartini/demartini/blob/master/code.gif" width="15%"> -->
 
 #### My Values:
 
