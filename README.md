@@ -12,11 +12,11 @@
 💬 Teamwork & Communication <br/>
 🔮 Mindset of Learning & Curiosity
 
-#### Hobbies: 
+<!-- #### Hobbies: 
 
 🎸 Guitar player <br/> 
 ☕ Barista coffee <br/>
-🏃 Beginner runner 
+🏃 Beginner runner  -->
 
 #### My Stacks:
 
