@@ -1,11 +1,11 @@
-#### Hi, I'm Fagner Lima
+<!-- #### Hi, I'm Fagner Lima
 
 •Software Engineer 🧑🏻‍💻<br>
-•Postgraduate in Business Cybersecurity Management👤🔐<br>
+•Postgraduate in Business Cybersecurity Management👤🔐<br> -->
 <!-- 
 <img src="https://github.com/demartini/demartini/blob/master/code.gif" width="15%"> -->
 
-#### My Values:
+<!-- #### My Values:
 
 🧠 Thoughtful & Inclusive Development <br/>
 😇 Loyal & Responsible<br>
@@ -17,8 +17,8 @@
 🎸 Guitar player <br/> 
 ☕ Barista coffee <br/>
 🏃 Beginner runner 
-
-#### My Stacks:
+ -->
+<!-- #### My Stacks:
 
 
 <div>
@@ -42,4 +42,4 @@
  
  <a href="https://instagram.com/fagnerrlima" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href="https://www.linkedin.com/in/fagnerrlima" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- <a href="https://open.spotify.com/user/1282634307" target="_blank"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" target="_blank"></a> 
+ <a href="https://open.spotify.com/user/1282634307" target="_blank"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" target="_blank"></a>  -->
