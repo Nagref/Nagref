@@ -1,9 +1,31 @@
-#### Hi, I'm Fagner Lima
+# Fagner Lima
 
-•Software Engineer 🧑🏻‍💻<br>
-•Postgraduate in Business Cybersecurity Management👤🔐<br>
-<!-- 
-<img src="https://github.com/demartini/demartini/blob/master/code.gif" width="15%"> -->
+ <a href="https://instagram.com/nagref.jpeg" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ <a href="https://www.linkedin.com/in/fagnerrlima" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ <a href="https://devfagnerlima.com" target="_blank"><img src="https://img.shields.io/badge/WebPage-8A2BE2?&style=for-the-badge&logo=vsco&logoColor=white" target="_blank"></a> 
+
+Hi, i'm a Software engineer,
+Postgraduate in Business
+Cybersecurity Management,
+passionate about solving problems
+using programming,<br>
+i ended up seeing her
+an inspiration for the profession.
+
+I consider myself an agile,
+responsible person, hardworking,
+very positive and humorous.<br>
+Always learning, I like to be around
+within all technological innovations,
+teamwork and challenges.<br>
+
+I aim to evolve more every day
+as a developer and would like to help
+other people to become developer people.
+Born in Rio de Janeiro, Brazil.
+
+
+<!-- <img src="https://github.com/demartini/demartini/blob/master/code.gif" width="15%"> -->
 
 #### My Values:
 
@@ -12,11 +34,11 @@
 💬 Teamwork & Communication <br/>
 🔮 Mindset of Learning & Curiosity
 
-<!-- #### Hobbies: 
+#### Hobbies: 
 
 🎸 Guitar player <br/> 
 ☕ Barista coffee <br/>
-🏃 Beginner runner  -->
+🏃 Beginner runner 
 
 #### My Stacks:
 
@@ -30,7 +52,7 @@
   <img align="center" alt="Nagref-Golang" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg">
   <img align="center" alt="Nagref-Git" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
 </div><br/>
-<!-- <div>
+<div>
   
  ![TOP Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=Nagref&layout=compact&theme=omni)
  
@@ -40,7 +62,5 @@
 
  ![Snake animation](https://github.com/Nagref/Nagref/blob/output/github-contribution-grid-snake.svg)
  
- <a href="https://instagram.com/fagnerrlima" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- <a href="https://www.linkedin.com/in/fagnerrlima" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- <a href="https://open.spotify.com/user/1282634307" target="_blank"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" target="_blank"></a> 
- -->
+
+
