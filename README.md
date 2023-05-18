@@ -54,9 +54,10 @@ Born in Rio de Janeiro, Brazil.
 </div><br/>
 <div>
   
- ![TOP Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=Nagref&layout=compact&theme=omni)
  
- ![GitHubStats](https://github-readme-stats.vercel.app/api?username=Nagref&show_icons=true&include_all_commits=true&line_height=20&hide_border=true&theme=omni)
+ ![TOP Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=Nagref&layout=compact&theme=omni) ![GitHubStats](https://github-readme-stats.vercel.app/api?username=Nagref&show_icons=true&include_all_commits=true&line_height=20&hide_border=true&theme=omni)
+ 
+ 
 
 </div>
 
