@@ -21,7 +21,7 @@ teamwork and challenges.<br>
 
 I aim to evolve more every day
 as a developer and would like to help
-other people to become developer people.
+other people to become developer people.<br>
 Born in Rio de Janeiro, Brazil.
 
 
