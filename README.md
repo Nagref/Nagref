@@ -63,7 +63,7 @@ Born in Rio de Janeiro, Brazil.
 
 <!--  ![Snake animation](https://github.com/Nagref/Nagref/blob/output/github-contribution-grid-snake.svg)-->
 
- ![snake gif](https://github.com/Nagref/Nagref/blob/output/github-contribution-grid-snake.gif)
+<!--  ![snake gif](https://github.com/Nagref/Nagref/blob/output/github-contribution-grid-snake.gif) -->
  
 
 
