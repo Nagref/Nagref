@@ -4,41 +4,31 @@
  <a href="https://www.linkedin.com/in/fagnerrlima" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
  <a href="https://devfagnerlima.com" target="_blank"><img src="https://img.shields.io/badge/Site-8A2BE2?&style=for-the-badge&logo=vsco&logoColor=white"></a> 
 
-Hi, i'm a Software engineer,
-Postgraduate in Business
-Cybersecurity Management,
-passionate about solving problems
-using programming,<br>
-i ended up seeing her
-an inspiration for the profession.
+Olá, eu me chamo Fagner Lima.
+Sou Engenheiro de Software, Pós-Graduado em Gestão na Cibersegurança Empresarial, voluntariado na comunidade NodeBR e FreeLancer Full-Stack apaixonado por resolver problemas usando programação, acabei fazendo da tecnologia uma inspiração para a profissão.
 
-I consider myself an agile,
-responsible person, hardworking,
-very positive and humorous.<br>
-Always learning, I like to be around
-within all technological innovations,
-teamwork and challenges.<br>
+Eu me considero ágil, responsável, trabalhador, muito positivo e bem humorado. Sempre aprendendo, gosto de estar sempre por dentro de todas as inovações tecnológicas, gosto de trabalho em equipe e desafios.
 
-I aim to evolve more every day
-as a developer and would like to help
-other people to become developer people.<br>
-Born in Rio de Janeiro, Brazil.
+Pretendo evoluir mais a cada dia como desenvolvedor e gosto de ajudar a fazer pessoas desenvolvedoras.
+Nascido no Rio de Janeiro, Brasil.
+
+
 
 
 <!-- <img src="https://github.com/demartini/demartini/blob/master/code.gif" width="15%"> -->
 
-#### My Values:
+#### Meus Valores:
 
-🧠 Thoughtful & Inclusive Development <br/>
-😇 Loyal & Responsible<br>
-💬 Teamwork & Communication <br/>
-🔮 Mindset of Learning & Curiosity
+🧠 Desenvolvimento cuidadoso</br>
+😇 Leal e Responsável</br>
+💬 Trabalho em equipe e comunicação</br>
+🔮 Mentalidade de Aprendizagem</br>
 
-#### Hobbies: 
+#### Meus Hobbies: 
 
-🎸 Guitar player <br/> 
-☕ Barista coffee <br/>
-🏃 Beginner runner 
+🎸 Guitarrista</br>
+☕ Barista - Coffee</br>
+🏃 Maratonista Iniciante</br>
 
 #### My Stacks:
 
