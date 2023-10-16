@@ -4,12 +4,12 @@
  <a href="https://www.linkedin.com/in/fagnerrlima" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
  <a href="https://devfagnerlima.com" target="_blank"><img src="https://img.shields.io/badge/Site-8A2BE2?&style=for-the-badge&logo=vsco&logoColor=white"></a> 
 
-Olá, eu me chamo Fagner Lima.
+Olá, eu me chamo Fagner Lima.</br>
 Sou Engenheiro de Software, Pós-Graduado em Gestão na Cibersegurança Empresarial, voluntariado na comunidade NodeBR e FreeLancer Full-Stack apaixonado por resolver problemas usando programação, acabei fazendo da tecnologia uma inspiração para a profissão.
 
 Eu me considero ágil, responsável, trabalhador, muito positivo e bem humorado. Sempre aprendendo, gosto de estar sempre por dentro de todas as inovações tecnológicas, gosto de trabalho em equipe e desafios.
 
-Pretendo evoluir mais a cada dia como desenvolvedor e gosto de ajudar a fazer pessoas desenvolvedoras.
+Pretendo evoluir mais a cada dia como desenvolvedor e gosto de ajudar a fazer pessoas desenvolvedoras.</br>
 Nascido no Rio de Janeiro, Brasil.
 
 
