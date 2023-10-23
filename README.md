@@ -5,31 +5,7 @@
   <a href="https://dev.to/nagref" target="_blank"><img src="https://img.shields.io/badge/Dev.to-151320?&style=for-the-badge&logo=dev.to&logoColor=white"></a> 
  <a href="https://devfagnerlima.com" target="_blank"><img src="https://img.shields.io/badge/Site-8A2BE2?&style=for-the-badge&logo=vsco&logoColor=white"></a> 
 
-Olá, eu me chamo Fagner Lima.</br>
-Sou Engenheiro de Software, Pós-Graduado em Gestão na Cibersegurança Empresarial, voluntariado na comunidade NodeBR e FreeLancer Full-Stack apaixonado por resolver problemas usando programação, acabei fazendo da tecnologia uma inspiração para a profissão.
 
-Eu me considero ágil, responsável, trabalhador, muito positivo e bem humorado. Sempre aprendendo, gosto de estar sempre por dentro de todas as inovações tecnológicas, gosto de trabalho em equipe e desafios.
-
-Pretendo evoluir mais a cada dia como desenvolvedor e gosto de ajudar a fazer pessoas desenvolvedoras.</br>
-Nascido no Rio de Janeiro, Brasil.
-
-
-
-
-<!-- <img src="https://github.com/demartini/demartini/blob/master/code.gif" width="15%"> -->
-
-#### Meus Valores:
-
-🧠 Desenvolvimento cuidadoso</br>
-😇 Leal e Responsável</br>
-💬 Trabalho em equipe e comunicação</br>
-🔮 Mentalidade de Aprendizagem</br>
-
-#### Meus Hobbies: 
-
-🎸 Guitarrista</br>
-☕ Barista - Coffee</br>
-🏃 Maratonista Iniciante</br>
 
 #### My Stacks:
 
