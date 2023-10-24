@@ -2,8 +2,7 @@
 
  <a href="https://instagram.com/nagref.developer" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="25" width="100"></a>
  <a href="https://www.linkedin.com/in/fagnerrlima" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="25" width="100"></a> 
- <a href="https://dev.to/nagref" target="_blank"><img src="https://img.shields.io/badge/Dev.to-151320?&style=for-the-badge&logo=dev.to&logoColor=white" height="25" width="100"></a> 
- <a href="https://devfagnerlima.com" target="_blank"><img src="https://img.shields.io/badge/Site-8A2BE2?&style=for-the-badge&logo=firebase&logoColor=white" height="25" width="100"></a> 
+ <a href="https://dev.to/nagref" target="_blank"><img src="https://img.shields.io/badge/Dev.to-151320?&style=for-the-badge&logo=dev.to&logoColor=white" height="25" width="100"></a>
 
 
 #### My Stacks:
