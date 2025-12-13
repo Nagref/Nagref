@@ -1,57 +1,37 @@
-# 👋 Olá, eu sou o Fagner Lima
+# 👋 Fagner Lima
 
-💻 **Desenvolvedor de Software | JavaScript • React • Node.js • Go**
+💻 **Software Developer**
+⚙️ JavaScript • React • Node.js • Go
 📍 Brasil
 
 ---
 
 ## 🚀 Sobre mim
 
-Desenvolvedor de software formado em **Análise e Desenvolvimento de Sistemas**, com foco em **JavaScript** e construção de aplicações web modernas.
+Desenvolvedor de software formado em **Análise e Desenvolvimento de Sistemas**, com experiência em aplicações web modernas.
 
-Tenho experiência com **front-end e back-end**, APIs, boas práticas e versionamento de código. Trago também bagagem em gestão, o que contribui para organização, comunicação clara e visão de produto.
+Atuo com **front-end e back-end**, APIs, versionamento e boas práticas. Tenho perfil organizado, comunicativo e foco em código limpo e funcional.
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Linguagens
-
-* JavaScript (ES6+)
-* TypeScript
-* Python
-* Go
-
-### Front-end
-
-* React
-* HTML5
-* CSS3
-
-### Back-end
-
-* Node.js
-* APIs REST
-
-### Ferramentas & DevOps
-
-* Git & GitHub
-* Linux
-* VS Code
-* Docker (nível inicial)
-* Firebase
+**JavaScript • TypeScript • React • Node.js • Go • Python**
+Git • GitHub • Linux • Docker (básico) • Firebase
 
 ---
 
-## 📚 Formação & Aprendizado
+## 🎓 Formação
 
 * Análise e Desenvolvimento de Sistemas
-* Inteligência Artificial – PUC-SP 
-* Cibersegurança Empresarial 
+* IA – PUC-SP
+* Cibersegurança Empresarial
 
 ---
 
 ## 🎯 Foco Atual
+
+Construção de aplicações web escaláveis, bem estruturadas e fáceis de manter.
 
 Desenvolvimento de aplicações web utilizando **JavaScript, React, Node.js** e boas práticas de engenharia de software., participando de projetos reais e evoluindo continuamente como profissional.
 
@@ -66,6 +46,15 @@ Busco oportunidades onde eu possa:
 * Trabalhar com código de verdade
 * Aprender com pessoas experientes
 * Crescer profissionalmente na área de tecnologia
+
+---
+
+## 📊 GitHub Stats
+
+<p align="left">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Nagref&show_icons=true&hide_title=true&hide_border=true&count_private=true" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nagref&layout=compact&hide_border=true" />
+</p>
 
 ---
 
@@ -85,12 +74,12 @@ Busco oportunidades onde eu possa:
 
 ---
 
-## ⚡ Curiosidades
+## ⚡ Extras
 
-* Experiência prévia em gestão
-* Perfil disciplinado e focado em evolução técnica
-* Entusiasta de tecnologia e projetos com propósito
+* Background em gestão
+* Evolução técnica constante
+* Tecnologia com propósito
 
 ---
 
-📌 *Perfil em constante evolução.* 🚀
+📌 *Keep building.* 🚀
