@@ -21,22 +21,6 @@ Git • GitHub • Linux • Docker • Firebase
 
 ---
 
-## 🎓 Formação
-
-* Análise e Desenvolvimento de Sistemas
-* IA – PUC-SP
-* Cibersegurança Empresarial
-
----
-
-## 🎯 Foco Atual
-
-Construção de aplicações web escaláveis, bem estruturadas e fáceis de manter.
-
-Desenvolvimento de aplicações web utilizando **JavaScript, React, Node.js** e boas práticas de engenharia de software., participando de projetos reais e evoluindo continuamente como profissional.
-
----
-
 ## 🌐 Onde me encontrar
 
 <p align="left">
@@ -50,14 +34,6 @@ Desenvolvimento de aplicações web utilizando **JavaScript, React, Node.js** e 
     <img src="https://img.shields.io/badge/Dev.to-151320?style=for-the-badge&logo=dev.to&logoColor=white"/>
   </a>
 </p>
-
----
-
-## ⚡ Extras
-
-* Background em gestão
-* Evolução técnica constante
-* Tecnologia com propósito
 
 ---
 
