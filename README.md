@@ -1,7 +1,7 @@
 # 👋 Fagner Lima
 
-💻 **Software Developer**
-⚙️ JavaScript • React • Node.js • Go
+💻 **Software Developer** <br>
+⚙️ JavaScript • React • Node.js • Go <br>
 📍 Brasil
 
 ---
@@ -16,7 +16,7 @@ Atuo com **full-stack e cybersecurity**, APIs, versionamento e boas práticas. T
 
 ## 🛠️ Tech Stack
 
-**JavaScript • TypeScript • React • Node.js • Go • Python**
+**JavaScript • TypeScript • React • Node.js • Go • Python** •
 Git • GitHub • Linux • Docker • Firebase
 
 ---
